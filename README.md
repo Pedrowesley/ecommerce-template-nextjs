@@ -2,6 +2,12 @@
 
 DevStore is a basic e-commerce template built with Next.js. It serves as a starting point for building robust e-commerce applications.
 
+## 📸 Preview
+
+Here are a screenshot of application:
+
+![Application](./public/screens.png)
+
 ## 🚀 Features
 
 - 🖥️ Next.js for server-side rendering, routing and tooling
